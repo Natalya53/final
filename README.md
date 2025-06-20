@@ -49,3 +49,9 @@ Q2:
 
 Q5:
 
+・新增
+
+./src/mem/cache/base.cc
+
+![image](https://github.com/user-attachments/assets/277fd27b-ce1d-46e8-a418-0ab0c0ced536)
+
